@@ -25,7 +25,7 @@
 1. **全国大学生智能汽车竞赛模型组冠军**  
    - 使用 百度Edgeboard + 英飞凌TC264开发
    - 实现了智能车在特定赛道上的自动行驶
-   - [coming soon！](coming soon！)
+   - [开源代码链接(如果你觉得有帮助点个 star 吧)](https://github.com/Wangweiliu/19th_IntelligentCarRace_Model_HDU)
 
 ## 联系方式
 
